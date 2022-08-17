@@ -1,0 +1,7 @@
+D:\C#  Visual studio projects\DetaSet\DetaSet\bin\Debug\DetaSet.exe
+D:\C#  Visual studio projects\DetaSet\DetaSet\bin\Debug\DetaSet.pdb
+D:\C#  Visual studio projects\DetaSet\DetaSet\obj\x86\Debug\DetaSet.exe
+D:\C#  Visual studio projects\DetaSet\DetaSet\obj\x86\Debug\DetaSet.pdb
+D:\C#  Visual studio projects\DetaSet\DetaSet\bin\Debug\Database1.mdf
+D:\C#  Visual studio projects\DetaSet\DetaSet\bin\Debug\Database1_log.ldf
+D:\C#  Visual studio projects\DetaSet\DetaSet\obj\x86\Debug\DetaSet.csprojResolveAssemblyReference.cache

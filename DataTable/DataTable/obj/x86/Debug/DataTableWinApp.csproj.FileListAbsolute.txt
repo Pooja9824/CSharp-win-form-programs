@@ -1,0 +1,4 @@
+D:\C#  Visual studio projects\DataTable\DataTable\bin\Debug\DataTable.exe
+D:\C#  Visual studio projects\DataTable\DataTable\bin\Debug\DataTable.pdb
+D:\C#  Visual studio projects\DataTable\DataTable\obj\x86\Debug\DataTable.exe
+D:\C#  Visual studio projects\DataTable\DataTable\obj\x86\Debug\DataTable.pdb

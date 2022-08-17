@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<queryManifest version="1.0">
+  <catalogs>
+    <catalog productId="VS" productVersion="100" productLocale="EN-US" productDisplayName="" sourceType="index">
+      <catalogPath>D:\C#  Visual studio projects\catalogs\VS\100\EN-US</catalogPath>
+      <contentPath>D:\C#  Visual studio projects\content</contentPath>
+      <brandingPackageFileName>dev10.mshc</brandingPackageFileName>
+      <currentPartitionFileName>VS_100_EN-US_Cat_637803442971073877.mshi</currentPartitionFileName>
+      <catalogSources>
+        <catalogSource fileName="VS_100_EN-US_Cat_637803442971073877.mshi">
+          <sourceFiles>
+            <sourceFile vendorPath="Microsoft\store" fileName="Microsoft_Help_20219253_VS_100_en-us_1.mshi">
+              <contentFiles>
+                <contentFile vendorPath="Microsoft\store" fileName="Microsoft_Help_20219253_VS_100_en-us_1.mshc" />
+              </contentFiles>
+            </sourceFile>
+          </sourceFiles>
+        </catalogSource>
+      </catalogSources>
+    </catalog>
+  </catalogs>
+</queryManifest>

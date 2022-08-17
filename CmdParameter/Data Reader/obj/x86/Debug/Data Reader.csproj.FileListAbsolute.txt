@@ -1,0 +1,4 @@
+D:\C#  Visual studio projects\CmdParameter\Data Reader\bin\Debug\Data Reader.exe
+D:\C#  Visual studio projects\CmdParameter\Data Reader\bin\Debug\Data Reader.pdb
+D:\C#  Visual studio projects\CmdParameter\Data Reader\obj\x86\Debug\Data Reader.exe
+D:\C#  Visual studio projects\CmdParameter\Data Reader\obj\x86\Debug\Data Reader.pdb

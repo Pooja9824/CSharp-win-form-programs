@@ -1,0 +1,4 @@
+D:\C#  Visual studio projects\DataReader\DataReader\bin\Debug\DataReader.exe
+D:\C#  Visual studio projects\DataReader\DataReader\bin\Debug\DataReader.pdb
+D:\C#  Visual studio projects\DataReader\DataReader\obj\x86\Debug\DataReader.exe
+D:\C#  Visual studio projects\DataReader\DataReader\obj\x86\Debug\DataReader.pdb
